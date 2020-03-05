@@ -1,0 +1,3 @@
+[submodule "folder/subfolder"]
+	path = folder/subfolder
+	url = https://github.com/SchneePingu/submodule
